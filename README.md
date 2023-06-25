@@ -3,7 +3,7 @@
 
 #Part where machine learning algorithms accuracy shown.
 
-<img src="./images/Adsız.png"">
+<img src="./images/Adsız.png">
 
 
 
